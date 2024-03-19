@@ -1,0 +1,87 @@
+{
+  "admin": [
+    {
+      "username": "vishu",
+      "password": "vishu@123"
+    }
+  ],
+  "user": [
+    {
+      "name": "Rajveer",
+      "username": "rajveer",
+      "email": "raj@gmail.com",
+      "phone": 9767801564,
+      "password": "rajveer",
+      "id": 1
+    },
+    {
+      "name": "Aayush",
+      "username": "aayush",
+      "email": "aayush@gmail.com",
+      "phone": 9767618252,
+      "password": "aayush",
+      "id": 2
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "itemname": "Idli dosa",
+      "price": 60,
+      "type": "Breakfast"
+    },
+    {
+      "id": 2,
+      "itemname": "Bhav Bhaji",
+      "price": 50,
+      "type": "Breakfast"
+    },
+    {
+      "itemname": "Rajasthani Thali",
+      "price": 290,
+      "type": "Launch ",
+      "id": 3
+    },
+    {
+      "itemname": "Veg Pulav",
+      "price": 90,
+      "type": "Dinner",
+      "id": 4
+    },
+    {
+      "itemname": "Cholle Bhature",
+      "price": 160,
+      "type": "Launch & Dinner",
+      "id": 5
+    },
+    {
+      "itemname": "Burger",
+      "price": 80,
+      "type": "Breakfast",
+      "id": 6
+    },
+    {
+      "itemname": "Coffee",
+      "price": 40,
+      "type": "Drink",
+      "id": 7
+    },
+    {
+      "itemname": "Chiken Thali",
+      "price": 260,
+      "type": "Dinner",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "itemname": "Burger",
+      "price": 80,
+      "type": "Breakfast",
+      "id": 6,
+      "plates": 2,
+      "date": "23-02-2023",
+      "username": "aayush"
+    }
+  ]
+}
